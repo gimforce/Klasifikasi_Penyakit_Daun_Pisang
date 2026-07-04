@@ -1,1 +1,0 @@
-# Klasifikasi_Penyakit_Daun_Pisang
